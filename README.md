@@ -27,6 +27,29 @@ run the server with: `npm run dev`
 
 Write all the pages for which you need routes inside the `pages` folder.
 
+```bash
+npx create-react-app my_app
+cd my_app
+npm init -y
+npm install next styled-components babel-plugin-styled-components
+```
+
+add to package.json:
+
+```javascript
+"scripts" : {
+	"dev":"next"
+}
+```
+
+run the server with:
+
+```bash
+npm run dev
+```
+
+Write all the pages for which you need routes inside the `<pages>` folder.
+
 See pages/index.js for an example of a styled component implementation.
 
 <div style="background-color: lightgrey; width: 100%;">
