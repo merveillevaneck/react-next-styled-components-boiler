@@ -16,25 +16,25 @@ Happy hacking!
 
 run from terminal:
 
-<code>
+<pre><code>
     npx create-react-app my_app
     cd my_app
     npm init -y
     npm install next styled-components babel-plugin-styled-components
-</code>
+</code></pre>
 
 add to package.json:
 
-<code>
+<pre><code>
     "scripts" : {
     "dev":"next"
     }
-</code>
+</code></pre>
 
 run the server with:
 
-<code>npm run dev</code>
+<pre><code>npm run dev</code></pre>
 
-Write all the pages for which you need routes inside the <code>/pages</code> folder.
+Write all the pages for which you need routes inside the <pre><code>/pages</code></pre> folder.
 
-See <code>pages/index.js</code> for an example of a styled component implementation.
+See <pre><code>pages/index.js</code></pre> for an example of a styled component implementation.
