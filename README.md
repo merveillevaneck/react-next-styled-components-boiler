@@ -25,7 +25,7 @@ add to package.json:	```"scripts" : {
 				"dev":"next"
 			   }```
 
-run the server with: 	```npm run dev```
+run the server with: 	`npm run dev`
 
 Write all the pages for which you need routes inside the `pages` folder.
 
