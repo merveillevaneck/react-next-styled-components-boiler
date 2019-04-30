@@ -14,12 +14,12 @@ Happy hacking!
 
 ## Instructions:
 
-run from terminal: 	```
-			npx create-react-app my_app
-			cd my_app
-			npm init -y
-			npm install next styled-components babel-plugin-styled-components
-			```
+run from terminal:
+
+	npx create-react-app my_app
+	cd my_app
+	npm init -y
+	npm install next styled-components babel-plugin-styled-components
 
 add to package.json:	```"scripts" : {
 				"dev":"next"
