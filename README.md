@@ -30,26 +30,26 @@ Write all the pages for which you need routes inside the `pages` folder.
 run this in terminal:
 
 > ```bash
-> npx create-react-app my_app
-> cd my_app
-> npm init -y
-> npm install next styled-components babel-plugin-styled-components
+> __npx create-react-app my_app__
+> __cd my_app__
+> __npm init -y__
+> __npm install next styled-components babel-plugin-styled-components__
 > ```
 
 add to package.json:
 
 > ```javascript
-> "scripts" : {
-> 	"dev":"next"
-> }
+> __"scripts" : {__
+> 	__"dev":"next"__
+> __}__
 > ```
 
 run the server with:
 
 > ```bash
-> npm run dev
+> __npm run dev__
 > ```
 
-Write all the pages for which you need routes inside the `<pages>` folder.
+Write all the pages for which you need routes inside the **pages** folder.
 
 See pages/index.js for an example of a styled component implementation.
