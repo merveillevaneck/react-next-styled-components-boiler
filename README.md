@@ -35,6 +35,6 @@ run the server with:
 
 <pre><code>npm run dev</code></pre>
 
-Write all the pages for which you need routes inside the <pre><code>/pages</code></pre> folder.
+Write all the pages for which you need routes inside the **/pages** folder.
 
 See <pre><code>pages/index.js</code></pre> for an example of a styled component implementation.
