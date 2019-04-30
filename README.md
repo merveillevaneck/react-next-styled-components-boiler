@@ -15,7 +15,7 @@ Happy hacking!
 ## Instructions:
 
 run from terminal:
-```javascript
+```bash
 npx create-react-app my_app
 cd my_app
 npm init -y
@@ -23,7 +23,6 @@ npm install next styled-components babel-plugin-styled-components
 ```
 
 add to package.json:
-
 ```javascript
 "scripts" : {
 	"dev":"next"
@@ -31,7 +30,6 @@ add to package.json:
 ```
 
 run the server with:
-
 ```bash
 npm run dev
 ```
